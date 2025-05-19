@@ -1,4 +1,4 @@
-## Nodejs with Prisma
+## Nodejs with Prisma and Postgres
 
 Create your `.env` file and add your database URL:
 
